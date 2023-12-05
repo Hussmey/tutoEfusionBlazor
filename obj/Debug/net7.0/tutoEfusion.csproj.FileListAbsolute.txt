@@ -29,3 +29,4 @@
 /Users/devsEfusion/Documents/Efusion Projects/tutoEfusion/obj/Debug/net7.0/tutoEfusion.pdb
 /Users/devsEfusion/Documents/Efusion Projects/tutoEfusion/obj/Debug/net7.0/tutoEfusion.genruntimeconfig.cache
 /Users/devsEfusion/Documents/Efusion Projects/tutoEfusion/obj/Debug/net7.0/ref/tutoEfusion.dll
+/Users/devsEfusion/Documents/Efusion Projects/tutoEfusion/obj/Debug/net7.0/tutoEfusion.sourcelink.json
