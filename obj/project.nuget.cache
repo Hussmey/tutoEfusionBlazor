@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "de6/h1GQdDNwsW2fVCr728qh76XM1c7GaqZmYUawXvzKVXZvr2YhYl0zXejQRubbe+VhBaehTq9id06tqwAyXg==",
+  "success": true,
+  "projectFilePath": "/Users/devsEfusion/Documents/Efusion Projects/tutoEfusion/tutoEfusion.csproj",
+  "expectedPackageFiles": [
+    "/Users/devsEfusion/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/devsEfusion/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/devsEfusion/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
